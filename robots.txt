@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://focustester.github.io/sitemap.xml 
